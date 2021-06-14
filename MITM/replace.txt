@@ -1,0 +1,11 @@
+10
+Accept-Encoding: gzip, deflate, sdch
+Accept-Encoding: identity           
+Accept-Encoding: gzip, deflate
+Accept-Encoding: identity     
+apple
+linux
+Apple
+Linux
+iDNES.cz
+INJECTED
