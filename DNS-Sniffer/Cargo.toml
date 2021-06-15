@@ -1,0 +1,12 @@
+[package]
+name = "DNS-Sniffer"
+version = "0.1.0"
+authors = ["retq"]
+description = "None"
+
+[dependencies]
+af_packet = "0.2"
+dns-parser = "0.7"
+nom = "3.2"
+num_cpus = "1.8"
+pktparse = "0.2"
